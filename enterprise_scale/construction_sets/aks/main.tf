@@ -26,7 +26,7 @@ terraform {
     }
     tls = {
       source  = "hashicorp/tls"
-      version = "~> 3.0.0"
+      version = "~> 3.4.0"
     }
     azurecaf = {
       source  = "aztfmod/azurecaf"
